@@ -435,7 +435,7 @@ a:focus {
   padding: 15px 0 0 25px;
 }
 
-.saving_section .img-box img {
+.saving_section .img-box img video {
   width: 100%;
 }
 
@@ -457,7 +457,7 @@ a:focus {
 }
 
 .saving_section .detail-box .btn-box a {
-  width: 165px;
+  width: 175px;
   text-align: center;
   margin: 5px;
 }
